@@ -1,0 +1,9 @@
+Firstly we took some datasets from google and then inserted them into jupyter notebook.
+Then we installed the required libraries and implemented the algorithms one by one
+i.e - Firstly we implemented the Linear Regression Algorithm and checked the accuracy for that.
+It gave 78.33%.
+Then Support Vector Machine gave 70.23%.
+Random Forest Regression gave 79.00%.
+Gradient Boosting Algorithm gave 81.01%.
+And XG Boost extreme Grading Boosting Algorithm gave 95%.
+After comparison of all this we got the best accuracy for XG Boost extreme Grading Boosting Algorithm.
